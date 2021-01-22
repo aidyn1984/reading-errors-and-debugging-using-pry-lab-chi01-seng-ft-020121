@@ -21,4 +21,4 @@ def selection(num)
 
 end
 
-exit
+
