@@ -2,7 +2,9 @@
 
 def snake_it_up(string)
   if string[0] == "s"
-    10 * "s".to_i + string.to_i
+    go = "s"
+    z = s * 10
+    puts z
   else
     string
   end
